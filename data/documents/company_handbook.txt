@@ -1,0 +1,120 @@
+TechCorp Employee Handbook
+
+Welcome to TechCorp
+
+Welcome to TechCorp! We are thrilled to have you join our team. This handbook outlines our company policies, benefits, culture, and expectations. Please read it carefully and keep it as a reference throughout your employment.
+
+TechCorp was founded in 2010 with the mission of building software that makes people's lives simpler and more productive. We are headquartered in San Francisco, California, with offices in New York, London, Berlin, and Singapore. We currently employ over 2,000 people worldwide.
+
+Our Core Values
+
+1. Customer First
+Everything we do starts with the customer. We obsess over their needs, listen to their feedback, and measure our success by the value we create for them.
+
+2. Radical Transparency
+We share information openly within the company. We are honest about successes and failures, and we believe that everyone performs better when they understand the full picture.
+
+3. Continuous Learning
+We hire curious people who never stop learning. We invest in education and create an environment where experimentation and failure are part of growth.
+
+4. Inclusivity and Belonging
+We are committed to building a diverse and inclusive workplace where every employee feels valued, respected, and empowered to bring their full self to work.
+
+5. Ownership
+We take responsibility for our work. We do not wait to be told what to do — we identify problems and drive solutions.
+
+Work Hours and Remote Policy
+
+TechCorp operates on a flexible hybrid model. Employees are expected to be in the office at least two days per week, on Tuesdays and Thursdays. The remaining days can be worked remotely.
+
+Core hours are 10:00 AM to 3:00 PM in your local time zone, during which all employees should be available for meetings and collaboration. Outside core hours, employees have flexibility to structure their workday as needed.
+
+Employees who need to work fully remote due to personal circumstances should discuss this arrangement with their manager and HR.
+
+Compensation and Pay
+
+Employees are paid bi-weekly (every two weeks) via direct deposit. Pay stubs are available in the employee portal at portal.techcorp.com.
+
+TechCorp conducts annual performance reviews in December. Salary adjustments and bonuses are typically communicated in January and take effect February 1st.
+
+TechCorp offers equity compensation to all full-time employees in the form of Restricted Stock Units (RSUs). RSUs vest over four years with a one-year cliff.
+
+Benefits
+
+Health Insurance:
+TechCorp covers 100% of the premium for employee health, dental, and vision insurance. Dependents can be added at a subsidized rate. Coverage begins on the first day of employment.
+
+Retirement:
+TechCorp offers a 401(k) plan with a 4% company match. Employees are eligible to contribute immediately upon hire. The company match vests over two years.
+
+Paid Time Off:
+- 20 days of paid vacation per year (increases to 25 days after 3 years)
+- 10 paid federal holidays
+- 5 days of paid sick leave per year
+- 12 weeks of fully paid parental leave for all parents (birth, adoption, or foster care)
+
+Learning and Development:
+Each employee receives an annual learning budget of $2,000 to spend on courses, books, conferences, or certifications. Requests are approved by your manager.
+
+Wellness:
+TechCorp provides a $100 monthly wellness stipend that can be used for gym memberships, fitness equipment, mental health apps, or other wellness expenses.
+
+Home Office:
+New employees receive a $500 home office setup allowance in their first month.
+
+Performance Reviews
+
+TechCorp uses a continuous feedback model supplemented by formal reviews twice a year — in June and December.
+
+During formal reviews, employees complete a self-assessment and receive feedback from their manager. Goals for the next period are set collaboratively. Ratings use a five-level scale: Needs Improvement, Developing, Meeting Expectations, Exceeding Expectations, and Outstanding.
+
+Promotion decisions are made twice a year following the December and June reviews.
+
+Code of Conduct
+
+All TechCorp employees are expected to:
+- Treat colleagues, customers, and partners with respect and professionalism
+- Protect confidential company and customer information
+- Avoid conflicts of interest
+- Report concerns about unethical behavior to their manager or HR
+- Not engage in discrimination, harassment, or bullying of any kind
+- Comply with all applicable laws and regulations
+
+Violations of the code of conduct may result in disciplinary action up to and including termination.
+
+Reporting Issues
+
+If you experience or witness harassment, discrimination, or other misconduct, you have several options:
+1. Speak to your direct manager
+2. Contact HR at hr@techcorp.com
+3. Use the anonymous reporting hotline: 1-800-555-SAFE
+4. Submit a report through the Ethics Portal at ethics.techcorp.com
+
+TechCorp prohibits retaliation against employees who report concerns in good faith.
+
+IT and Security
+
+Employees are provided with a company laptop and are expected to use it for all work-related activities. Personal devices should not be used to access company systems without prior authorization.
+
+Employees must:
+- Use strong, unique passwords and enable two-factor authentication on all company accounts
+- Lock their screen when leaving their workstation
+- Not install unauthorized software on company devices
+- Report any security incidents or suspected breaches immediately to security@techcorp.com
+
+Offboarding
+
+When an employee leaves TechCorp — whether voluntarily or involuntarily — HR will schedule an exit interview to gather feedback. All company equipment must be returned on or before the last day of employment. Access to company systems will be revoked on the final day.
+
+Employees who resign should provide at least two weeks notice. Managers may request up to four weeks notice for senior roles.
+
+Contact Information
+
+HR Department: hr@techcorp.com | (415) 555-0100
+IT Help Desk: it@techcorp.com | (415) 555-0200
+Payroll: payroll@techcorp.com
+Benefits: benefits@techcorp.com
+Security: security@techcorp.com
+Ethics Hotline: 1-800-555-SAFE
+
+This handbook is effective as of January 1, 2024. TechCorp reserves the right to update policies at any time. Updates will be communicated via email and posted to the employee portal.
